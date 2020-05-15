@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pathology-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pathology-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pathalogy-icon" transform="translate(6.000000, 5.000000)" stroke="#8F959D" stroke-width="6">
+            <path d="M66.7780823,136.451316 L117.795405,134.755208 L117.702817,134.57083 C118.846905,134.692702 120.008733,134.755208 121.18516,134.755208 C139.134414,134.755208 153.68516,120.204463 153.68516,102.255208 C153.68516,84.305954 139.134414,69.7552083 121.18516,69.7552083 C109.262871,69.7552083 98.8399728,76.1748636 93.1846132,85.7460265 L90.8518265,81.1005859 L116.250608,39.8053159 C118.582865,39.5519112 120.95216,39.421875 123.351826,39.421875 C159.250335,39.421875 188.351826,68.5233663 188.351826,104.421875 C188.351826,140.320384 159.250335,169.421875 123.351826,169.421875 C99.0989249,169.421875 77.948389,156.139069 66.7780872,136.451325 Z" id="Combined-Shape"></path>
+            <path d="M20,169.421875 L158,169.421875 C169.045695,169.421875 178,178.37618 178,189.421875 L178,189.421875 L0,189.421875 C-1.3527075e-15,178.37618 8.954305,169.421875 20,169.421875 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#FFFFFF" x="36" y="122.421875" width="74" height="14"></rect>
+            <path d="M161,169.421875 C161,141.255353 138.166522,118.421875 110,118.421875 C81.8334778,118.421875 59,141.255353 59,169.421875 C128.388207,169.499349 96.500558,169.935733 161,169.421875 Z" id="Oval" fill="#FFFFFF"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="110" cy="135.421875" r="7"></circle>
+            <g id="Group-4" transform="translate(105.531250, 50.000000) rotate(-330.000000) translate(-105.531250, -50.000000) translate(85.531250, 4.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" x="10" y="32" width="20" height="48"></rect>
+                <rect id="Rectangle" transform="translate(20.000000, 22.000000) scale(1, -1) translate(-20.000000, -22.000000) " x="13" y="12" width="14" height="20"></rect>
+                <rect id="Rectangle" x="0" y="80" width="40" height="12"></rect>
+                <rect id="Rectangle-Copy-10" x="10" y="0" width="20" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

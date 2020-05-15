@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>retail-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="retail-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 6.000000)">
+            <rect id="Rectangle" stroke="#8F959D" stroke-width="6" x="7" y="3" width="187" height="185"></rect>
+            <rect id="Rectangle" stroke="#8F959D" stroke-width="6" x="7" y="69" width="187" height="119"></rect>
+            <rect id="Rectangle" stroke="#8F959D" stroke-width="6" x="78" y="146" width="116" height="42"></rect>
+            <rect id="Rectangle" stroke="#8F959D" stroke-width="6" x="7" y="69" width="71" height="119"></rect>
+            <g id="Group-6" fill="#FFFFFF" stroke="#8F959D" stroke-width="6">
+                <path d="M3,3 L3,19.6119403 C3,30.31967 11.68033,39 22.3880597,39 C33.0957894,39 41.7761194,30.31967 41.7761194,19.6119403 L41.7761194,3 L3,3 Z" id="Rectangle"></path>
+                <path d="M41.8059701,3 L41.8059701,19.6119403 C41.8059701,30.31967 50.4863001,39 61.1940299,39 C71.9017596,39 80.5820896,30.31967 80.5820896,19.6119403 L80.5820896,3 L41.8059701,3 Z" id="Rectangle-Copy-2"></path>
+                <path d="M79.6169154,3 L79.6169154,19.6119403 C79.6169154,30.31967 88.2972454,39 99.0049751,39 C109.712705,39 118.393035,30.31967 118.393035,19.6119403 L118.393035,3 L79.6169154,3 Z" id="Rectangle-Copy-5"></path>
+                <path d="M119.41791,3 L119.41791,19.6119403 C119.41791,30.31967 128.09824,39 138.80597,39 C149.5137,39 158.19403,30.31967 158.19403,19.6119403 L158.19403,3 L119.41791,3 Z" id="Rectangle-Copy-6"></path>
+                <path d="M158.223881,3 L158.223881,19.6119403 C158.223881,30.31967 166.904211,39 177.61194,39 C188.31967,39 197,30.31967 197,19.6119403 L197,3 L158.223881,3 Z" id="Rectangle-Copy-7"></path>
+            </g>
+            <g id="Group-8" transform="translate(135.679199, 106.460938) rotate(-45.000000) translate(-135.679199, -106.460938) translate(100.679199, 95.460938)" fill="#8F959D">
+                <rect id="Rectangle" x="0" y="16" width="70" height="6"></rect>
+                <rect id="Rectangle" x="9" y="0" width="11" height="6"></rect>
+                <rect id="Rectangle-Copy-8" x="30" y="0" width="21" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
