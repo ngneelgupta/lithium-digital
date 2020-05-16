@@ -912,6 +912,7 @@ ul.breadcrumb li a:hover {
     border-radius: 7px;
     float: right;
     border: 2px solid #07335c;
+    display: inline-block;
 }
 
 .card-read-more .fa {
@@ -1000,8 +1001,20 @@ ul.breadcrumb li a:hover {
 	padding: 10px;
 }*/
 
+.services-landing-wrapper .card {
+	margin-bottom: 30px;
+}
+
+.services-landing-wrapper .card-title {
+	height: 35px;
+}
+
 .services-landing-wrapper .card-text {
-	height: 66px;
+	display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .sticky {
