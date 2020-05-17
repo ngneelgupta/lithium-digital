@@ -3,23 +3,7 @@
     .banner-detail {
         width: 44%;
         float: right;
-        margin: 110px 0;
     }
-
-/*    .services-landing-wrapper {
-        background-position-y: -58%;
-    }*/
-
-/*    .project-wrapper {
-        background: url(../images/rectangle@3x.png) top right no-repeat #fff;
-        background-size: 39%;
-        background-position: 100% 101%;
-    }
-*/
-/*    .success-slider {
-        background-size: 21%;
-        background-position: 23% 0;
-    }*/
 }
 
 @media screen and (max-width:1740px) { 
@@ -27,18 +11,13 @@
         background: #eeeeee;
         padding: 20px 30px 25px 30px;
     }
-    .homepage-footer { 
-        background-position: 0px -348px;
-    }
+
     .strategy-section p {
         width: 58%;
     }
 }
 
 @media screen and (max-width:1600px) {
-    .homepage-footer { 
-        background-position: 0px -245px;
-    }
 
     .founder-info-col {
         display: block;
