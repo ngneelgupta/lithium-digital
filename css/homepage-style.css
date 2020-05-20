@@ -22,7 +22,7 @@
 }
 
 .homepage-banner-col h2 {
-	font-size: 112px;
+	font-size: 7vw;
     font-weight: 800;
     color: #fff;
     margin: 30px 0 0 0;
@@ -42,11 +42,13 @@
 	color:#717070;
 }
 
-.fixed .logo, .fixed-logo {
+
+
+.fixed .logo-homepage, .fixed-logo {
 	display: none;
 }
 
-.fixed .fixed-logo {
+.fixed .fixed-logo, .logo-homepage {
 	display: block;
 	width: 75%;
 }
@@ -391,10 +393,17 @@ img.heading-img {
     background: #1c1c1c none repeat scroll 0 0;
     color: #ffffff;
     padding: 40px 0;
+    width: 100%;
+    float: left;
   }
 
   .footer-col-item {
     min-height: 105px;
+  }
+
+  .footer-top-layout .row {
+    width: 100%;
+    margin: 0px;
   }
   
   address {
@@ -459,6 +468,8 @@ img.heading-img {
     background: #222222 none repeat scroll 0 0;
     padding: 20px 0;
     text-align: center;
+        width: 100%;
+    float: left;
   }
   .socialMedia-footer {
     margin-bottom: 20px;
@@ -477,3 +488,21 @@ img.heading-img {
     line-height: 24px;
     color: #ababab;
   } 
+  
+.sitemap-col {
+    width: 100%;
+    float: left;
+}
+
+.sitemap-inner {
+  width: 14.2%;
+  float: left;
+  text-align: center;
+}
+
+.sitemap-inner a.foot-head {
+    font-size: 16px;
+    color: #fff;
+    line-height: 24px;
+    font-weight: 600;
+}
